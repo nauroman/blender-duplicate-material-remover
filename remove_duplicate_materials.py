@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Remove Duplicate Materials",
-    "author": "Cascade AI",
+    "author": "Roman Naumov",
     "version": (1, 0, 0),
     "blender": (4, 4, 0),
     "location": "3D Viewport > Object Mode > Object Menu",
